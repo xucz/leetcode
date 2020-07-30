@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-js",
+  "version": "0.0.1",
+  "description": "leetcode 题解 javascript版本",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xucz/leetcode-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xucz/leetcode-js/issues"
+  },
+  "homepage": "https://github.com/xucz/leetcode-js#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
